@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Stock futures are little changed as market kicks off new year's trading after a strong 2023: Live updates - CNBC",
+            "description": "The stock market just finished 2023 with a bang as the S&P 500 climbed for nine weeks in a row to end the year.",
+            "url": "https://www.cnbc.com/2024/01/01/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1695593030&w=1920&h=1080",
+            "publishedAt": "2024-01-02T05:00:00Z",
+            "content": "Stock futures were flat in overnight trading Tuesday as the market is poised to kick off the new year following a surprisingly strong 2023 that saw the S&amp;P 500 rally 24%.\r\nFutures on the Dow Jone… [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "BYD is set to beat Tesla for a second straight year after producing more than 3 million cars in 2023 - CNBC",
+            "description": "In 2022, Tesla produced 1.37 million vehicles, fewer than BYD's 1.88 million.",
+            "url": "https://www.cnbc.com/2024/01/02/byd-produced-more-than-3-million-cars-in-2023-set-to-beat-tesla.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107295493-1693834206759-BYD_Seal_cover_phot.jpg?v=1694160839&w=1920&h=1080",
+            "publishedAt": "2024-01-02T04:48:00Z",
+            "content": "BYD launched the BYD Seal in Europe at the IAA auto show in Munich, Germany. The electric sedan has a starting price of 44,900 euros ($48,479).\r\nBEIJING BYD said Monday it produced more than 3 millio… [+4029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Suvashree Ghosh",
+            "title": "Bitcoin Topped $45,000 for First Time in Nearly Two Years - Yahoo Finance",
+            "description": "(Bloomberg) -- Bitcoin surpassed $45,000 for the first time in nearly two years as anticipation of an approval of an exchange-traded fund investing directly ...",
+            "url": "https://finance.yahoo.com/news/bitcoin-rises-highest-level-21-021610119.html",
+            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/94c6b249849efe7c8182e6d53e1398de",
+            "publishedAt": "2024-01-02T04:39:00Z",
+            "content": "(Bloomberg) -- Bitcoin surpassed $45,000 for the first time in nearly two years as anticipation of an approval of an exchange-traded fund investing directly in the biggest token intensified.\r\nMost Re… [+1766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "PC Part Disaster: Disappointment PC Build 2023 (Worst Parts of the Year) - Gamers Nexus",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=xw6rl_mnfnQ",
+            "urlToImage": null,
+            "publishedAt": "2024-01-02T04:35:58Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung",
+            "title": "Passengers hoped this ‘time traveling’ flight would give them two New Year’s Eves – but they arrived in the wrong year - CNN",
+            "description": "Passengers on a United Airlines flight hoping to travel back in time for New Year’s got off to an unfortunate start in 2024.",
+            "url": "https://www.cnn.com/2024/01/02/travel/new-years-eve-flight-united-airlines-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240101231311-united-airlines-200-boeing-777-300er.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-02T04:32:00Z",
+            "content": "Passengers on a United Airlines flight hoping to travel back in time for New Years got off to an unfortunate start in 2024.\r\nFlight UA200 was originally scheduled to depart Guam at 7:35 a.m. on Janua… [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Melanie Aman",
+            "title": "35 Products That'll Make You Wanna Redo Your Bathroom - BuzzFeed",
+            "description": "Because 2024 is the year we put an end to soggy soap bars.",
+            "url": "https://www.buzzfeed.com/melanie_aman/bathroom-makeover-products",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-12/11/21/enhanced/c5096b598f28/original-596-1702330998-2.jpg?crop=4116:2161;0,0%26downsize=1250:*",
+            "publishedAt": "2024-01-02T04:01:03Z",
+            "content": "Promising review: \"I bought this because of all the hype on TikTok, and I wasnt expecting much, to be honest. I have these glass shower doors that have been water marked for a while, I usually use a … [+420 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "X Worth Less Than a Third What Elon Musk Paid for Twitter Per Fidelity: Axios - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2024-01-02/musk-s-x-value-cut-by-another-fidelity-writedown-axios-reports",
+            "urlToImage": null,
+            "publishedAt": "2024-01-02T02:46:45Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "China sees robust travel, tourism demand during New Year's Day holiday - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/world/china/china-sees-robust-travel-tourism-demand-during-new-years-day-holiday-2024-01-02/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-02T02:38:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "See the EVs that still qualify for a $7,500 federal tax credit - Business Insider",
+            "description": "The list of EVs eligible for a $7,500 tax credit got a lot shorter on January 1.",
+            "url": "https://www.businessinsider.com/list-evs-electric-cars-qualify-for-federal-tax-credit-2024-1",
+            "urlToImage": "https://i.insider.com/659369d4ec62ab5daf7fdb9e?width=1200&format=jpeg",
+            "publishedAt": "2024-01-02T02:18:00Z",
+            "content": "New requirements for a $7,500 federal tax credit on electric vehicles kicked in on January 1, and the list of eligible vehicles just got a lot shorter.\r\nUnder the new rules, it's harder to get the fu… [+1149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Daily News"
+            },
+            "author": "Theresa Braine",
+            "title": "Doctor who delivered NYC's first New Year baby didn't know he also delivered dad - New York Daily News",
+            "description": "The first New Year’s baby born in New York City’s public hospitals system was brought into the world by the same doctor who delivered the child’s dad 23 years ago.",
+            "url": "http://www.nydailynews.com/2024/01/01/first-new-years-baby-2024-nyc-public-hospitals-same-dr-delivered-dad/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/01/as-the-clock-struck-midnight-the-citys-public-health-systems-first-baby-of-2024-was-born-at-nyc-health-hospitals-south-brooklyn-health-feature.jpg?w=640&h=400",
+            "publishedAt": "2024-01-02T02:16:25Z",
+            "content": "When New York City’s first baby of 2024 entered the world at the stroke of midnight Monday morning, the newborn boy immediately took after his father: They were both delivered by the same doctor.\r\nYe… [+2197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP business writer",
+            "title": "Chinese factory activity slows in December in a 3rd straight month of contraction - ABC News",
+            "description": "A survey of factory managers in China shows manufacturing contracted in December in the latest sign the world's second-largest economy remains sluggish",
+            "url": "https://abcnews.go.com/Business/wireStory/chinas-manufacturing-activity-slows-december-latest-sign-economy-106028366",
+            "urlToImage": "https://i.abcnewsfe.com/a/9aa63a73-0c02-4fc7-868f-42846deae743/wirestory_8f2bd2c1d2025808f3ee1f2d3c3d0897_16x9.jpg?w=992",
+            "publishedAt": "2024-01-02T00:13:55Z",
+            "content": "BANGKOK -- A survey of factory managers in China shows manufacturing contracted in December in the latest sign the worlds second-largest economy remains sluggish. \r\nThe official purchasing managers i… [+2484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Irina Slav",
+            "title": "OPEC's Influence on Oil Prices To Remain Significant In 2024 - OilPrice.com",
+            "description": "OPEC is facing a difficult 2024 with non-OPEC supply rising and continuous uncertainty about demand and demand growth",
+            "url": "https://oilprice.com/Energy/Crude-Oil/OPECs-Influence-on-Oil-Prices-To-Remain-Significant-In-2024.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-29_vmdnt0bkf4.jpg",
+            "publishedAt": "2024-01-02T00:00:00Z",
+            "content": "The latest figures showed that…\r\nThe global diesel market is…\r\nMajor international oil companies are…\r\nBy Irina Slav - Jan 01, 2024, 6:00 PM CSTAt their latest meeting in early December, the Organiza… [+5242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KVOA Tucson News"
+            },
+            "author": "Megan Spector",
+            "title": "Arizona minimum wage increase starting January 1st | News | kvoa.com - KVOA Tucson News",
+            "description": "TUCSON, Ariz. (KVOA) - The new year is bringing new paychecks to some Arizonans.",
+            "url": "https://www.kvoa.com/news/arizona-minimum-wage-increase-starting-january-1st/article_aeb0845e-a8f2-11ee-88f9-67654b646b28.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kvoa.com/content/tncms/assets/v3/editorial/c/a5/ca53bb0c-a8fe-11ee-83db-b7171cd3726f/65934ce11f968.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-01-01T23:30:00Z",
+            "content": "TUCSON, Ariz. (KVOA) - The new year is bringing new paychecks to some Arizonans.\r\nJan. 1 marks the start of the minimum wage increase throughout our state. It has increased from $13.85 to $14.35.\r\nNe… [+1611 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Cagan Koc, Jennifer Jacobs",
+            "title": "US Pushed Dutch Maker of Chip Equipment to Block Chinese Sales Before Deadline - Bloomberg",
+            "description": "ASML Holding NV canceled shipments of some of its machines to China at the request of US President Joe Biden’s administration, weeks before export bans on the high-end chipmaking equipment came into effect, people familiar with the matter said.",
+            "url": "https://www.bloomberg.com/news/articles/2024-01-01/us-pushed-asml-to-block-chinese-sales-before-january-deadline",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0Xb2Uvy.qow/v1/1200x800.jpg",
+            "publishedAt": "2024-01-01T23:29:45Z",
+            "content": "ASML Holding NV canceled shipments of some of its machines to China at the request of US President Joe Bidens administration, weeks before export bans on the high-end chipmaking equipment came into e… [+489 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Stock Market Today: Dow, S&P Live Updates for Jan 2 - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2024-01-01/stock-market-today-dow-s-p-live-updates",
+            "urlToImage": null,
+            "publishedAt": "2024-01-01T22:46:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CryptoSlate"
+            },
+            "author": "Mike Dalton",
+            "title": "SEC could inform spot Bitcoin ETF applicants of approval by Jan. 3 - CryptoSlate",
+            "description": "The United States' main securities regulator could inform spot Bitcoin ETF applicants of approval in the coming days, Reuters said on Dec. 29.",
+            "url": "https://cryptoslate.com/sec-could-inform-spot-bitcoin-etf-applicants-of-approval-by-jan-3/",
+            "urlToImage": "https://cryptoslate.com/wp-content/uploads/2023/11/bitcoin-etf.-jpg.jpg",
+            "publishedAt": "2024-01-01T22:13:00Z",
+            "content": "The United States’ main securities regulator could inform spot Bitcoin ETF applicants of approval in the coming days, Reuters said on Dec. 29.\r\nAccording to that report, the U.S. Securities and Excha… [+2329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDAF FOX4 Kansas City"
+            },
+            "author": "Kelli Peltier",
+            "title": "New nonstop flights, guest option coming to KCI Airport in 2024 - WDAF FOX4 Kansas City",
+            "description": "In 2024, you’ll be able to visit the new Kansas City International Airport terminal without booking a flight as officials add a new guest experience.",
+            "url": "https://fox4kc.com/business/new-nonstop-flights-guest-option-coming-to-kci-airport-in-2024/",
+            "urlToImage": "https://fox4kc.com/wp-content/uploads/sites/16/2023/08/kci-terminal.jpg?w=1280",
+            "publishedAt": "2024-01-01T21:44:57Z",
+            "content": "KANSAS CITY, Mo. — In 2024, you’ll be able to visit the new terminal at Kansas City International Airport without booking a flight. \r\nAirport officials said that’s one of several new opportunities co… [+1545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA"
+            },
+            "author": "Yi-Jin Yu",
+            "title": "Over 657,000 infant formula cans recalled over potential bacteria contamination - Good Morning America",
+            "description": "Nutramigen infant formula cans have been recalled for possible Cronobacter sakazakii contamination.",
+            "url": "https://www.goodmorningamerica.com/family/story/657000-infant-formula-cans-recalled-potential-bacteria-contamination-106029711",
+            "urlToImage": "https://s.abcnews.com/images/GMA/Nutramigen-ht-gmh-240101_1704118682393_hpMain_16x9_992.jpg",
+            "publishedAt": "2024-01-01T20:53:17Z",
+            "content": "Over 675,000 cans of baby formula are being recalled for possible bacterial contamination, the company announced.\r\nReckitt and Mead Johnson Nutrition, the makers of Enfamil and Nutramigen, announced … [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WKRC TV Cincinnati"
+            },
+            "author": "CNN Newsource",
+            "title": "More than $44K worth of Legos stolen from sick children - WKRC TV Cincinnati",
+            "description": "An organization that provides toys for sick children is asking for help after thousands of dollars worth of Legos were stolen.",
+            "url": "https://local12.com/news/nation-world/more-than-44k-worth-legos-stolen-sick-children-kids-battling-pediatric-cancer-v-for-victory-foundation-nonprofit-organization-toy-donations-families-theft-robbery-investigation-donations-replacement-jacksonville-florida",
+            "urlToImage": "https://local12.com/resources/media/3269c077-7a95-4088-b92c-1cfa6427f805-large16x9_Legotheft.png",
+            "publishedAt": "2024-01-01T20:49:50Z",
+            "content": "JACKSONVILLE, Fla. (WKRC/WJXT/CNN Newsource) - An organization that provides toys for sick children is asking for help after thousands of dollars worth of Legos were stolen.\r\nThe V for Victory Founda… [+1254 chars]"
+        }
+    ]
+}
