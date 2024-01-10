@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bhagavan/static/css/main.f855e6bc.css",
+    "main.js": "/bhagavan/static/js/main.80b43766.js",
+    "static/js/787.35d407af.chunk.js": "/bhagavan/static/js/787.35d407af.chunk.js",
+    "static/media/loading.gif": "/bhagavan/static/media/loading.3937901eb4599ea0b164.gif",
+    "index.html": "/bhagavan/index.html",
+    "main.f855e6bc.css.map": "/bhagavan/static/css/main.f855e6bc.css.map",
+    "main.80b43766.js.map": "/bhagavan/static/js/main.80b43766.js.map",
+    "787.35d407af.chunk.js.map": "/bhagavan/static/js/787.35d407af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.80b43766.js"
+  ]
+}
